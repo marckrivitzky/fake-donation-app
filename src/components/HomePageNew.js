@@ -3,7 +3,7 @@ import React, { PureComponent} from "react";
 import { withRouter } from 'react-router-dom';
 import NavBar from "./NavBar";
 import { Card, Modal } from 'react-bootstrap'
-import TigerImage from '../assets/jaguar2.png'
+import TigerImage from '../assets/0.png'
 import certificate from '../assets/certificate.jpg'
 import BottomPage from "./BottomPage";
 import PartTwo from "./PartTwo";

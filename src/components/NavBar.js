@@ -17,6 +17,7 @@ function NavBar(){
 			      <Nav.Link href="/TheTeam">Team </Nav.Link>
 				  <Nav.Link href="Donate">Donate </Nav.Link>
 				  <Nav.Link a href="https://www.youtube.com/watch?v=UiFjONQDHNM">Learn more </Nav.Link>	
+					<Nav.Link a href="https://main.d3fc7rx6qh93ph.amplifyapp.com/CodingProjects">Back to website </Nav.Link>	
 		   		</Nav>
 		    </Container>
   		</Navbar>
