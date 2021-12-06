@@ -3,7 +3,7 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import HomePage from './components/HomePage';
+import HomePageNew from './components/HomePageNew';
 import TheTeam from './components/TheTeam';
 import Donate from './components/Donate'
 
@@ -43,7 +43,7 @@ export default class App extends React.Component {
           <Switch>
 
             <Route path="/" exact>
-              <HomePage firstName={this.state.firstName} lastName={this.state.lastName} amount={this.state.donationAmount}/>
+              <HomePageNew firstName={this.state.firstName} lastName={this.state.lastName} amount={this.state.donationAmount}/>
             </Route>
 
 

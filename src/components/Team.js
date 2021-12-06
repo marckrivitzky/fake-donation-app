@@ -21,7 +21,7 @@ class Team extends PureComponent{
 				<div className="team-cards">
 				
 					<br />
-					<div class="row">
+					<div class="row" id="team-cards">
 
 						<div class="col">
 							<div className="the-team">

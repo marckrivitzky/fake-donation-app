@@ -76,7 +76,7 @@ class Donate extends PureComponent{
 			<div className="donate-container">
 				<div classeName="form-card-container">
 					<NavBar/>
-					
+					<br/> <br/>
 					<Row className="form-card-contain">
 						<Col>
 							
