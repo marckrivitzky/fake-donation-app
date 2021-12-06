@@ -65,7 +65,7 @@ position: relative;
 margin-left: auto;
 margin-right: auto;
 color: rgb(194, 134, 22);
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif;
 font-size: 70px;
 } 
 
@@ -79,7 +79,7 @@ margin-right: auto;
 padding: 10px;
 text-align: center;
 position: relative;
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif;
 font-size: 19px;
 } 
 
@@ -109,7 +109,7 @@ color: white;
 
 
 color: rgb(194, 134, 22);
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif;
 font-size: 70px;
 
 }
@@ -179,12 +179,12 @@ bottom: 20px;
 
 .team-description{
 color: white;
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif;
 }
 
 .team-members{
 color: white;
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif;
 }
 
 .project-images{
