@@ -31,8 +31,10 @@ height: 580px;
 text-align: center;
 color: orange;
 background-color: black;
+}
 
-
+.part-one-container{
+width: max-content;
 }
 
 .donation-home-page-font-text{
