@@ -39,6 +39,7 @@ background-color: black;
 .part-one-container{
 background-image: url("https://wallpaperaccess.com/full/334015.jpg");
 background-repeat: no-repeat;
+overflow: hidden;
 }
 
 .donation-home-page-font-text{
