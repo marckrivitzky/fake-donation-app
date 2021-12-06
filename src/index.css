@@ -12,7 +12,11 @@ code {
     monospace;
 }
 
+.part-two-container{
+background-image: url("https://st3.depositphotos.com/3141125/14173/i/600/depositphotos_141733824-stock-photo-portrait-of-a-beautiful-lion.jpg");
+background-repeat: no-repeat;
 
+}
 
 
 .form-card{

@@ -50,8 +50,9 @@ class PartTwo extends PureComponent{
 
 			<div className="home-page" style={{ opacity:"100%" }} >
 			
-				<div className="part-two-container"style={{ backgroundImage:`url(${LionImage})`, height:"665px", width:"1519px", backgroundRepeat:"no-repeat" }}>
+				<div className="part-two-container">
 					<br />
+					<div className="part-two-card">
 					<h2 className="part-two-title">Our Goal</h2>
 						<br />
 						<h5 className="part-two-description">
@@ -65,8 +66,8 @@ class PartTwo extends PureComponent{
 						our animal friends.  When we picture the earth ten years from now, we see all big cats 
 						prospering as they should, they just need our help.
  						</h5>
-					
-				</div>				
+					</div>
+					</div>		
 			</div>
 		);
 	}
