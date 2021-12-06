@@ -12,6 +12,9 @@ code {
     monospace;
 }
 
+
+
+
 .form-card{
 margin-left: auto;
 margin-right: auto;
@@ -34,7 +37,8 @@ background-color: black;
 }
 
 .part-one-container{
-width: max-content;
+background-image: url("https://wallpaperaccess.com/full/334015.jpg");
+background-repeat: no-repeat;
 }
 
 .donation-home-page-font-text{

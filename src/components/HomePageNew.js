@@ -3,7 +3,7 @@ import React, { PureComponent} from "react";
 import { withRouter } from 'react-router-dom';
 import NavBar from "./NavBar";
 import { Card, Modal } from 'react-bootstrap'
-import TigerImage from '../assets/0.png'
+import TigerImage from '../assets/jaguar2.png'
 import certificate from '../assets/certificate.jpg'
 import BottomPage from "./BottomPage";
 import PartTwo from "./PartTwo";
@@ -43,7 +43,7 @@ class HomePageNew extends PureComponent{
 		
 			<div className="home-page" style={{ opacity:"100%" }} >
 				<NavBar />
-				<div className="part-one-container" style={{ backgroundImage:`url(${TigerImage})`, height:"1000px", width:"1519px", backgroundRepeat:"no-repeat"}}>
+				<div className="part-one-container">
 					<br /><br /><br />
 					<h1 className="home-page-name">Marc's Big Cat <br/> Foundation</h1>
 						<br />
