@@ -76,11 +76,11 @@ class Donate extends PureComponent{
 			<div className="donate-container">
 				<div classeName="form-card-container">
 					<NavBar/>
-					<br/> <br/>
+					<br/><br/><br/>
 					<Row className="form-card-contain">
 						<Col>
-							
-							<Card className="form-card" style={{ width: '40rem',backgroundColor: "#212529", color:"white", border:"10px solid rgb(194, 134, 22)" }}> 
+							<br/>
+							<Card  style={{position:'relative', marginRight:'auto', marginLeft:'auto', width: '90%',backgroundColor: "#212529", color:"white", border:"10px solid rgb(194, 134, 22)" }}> 
 								<br/><h3>Donate</h3>
 								 <Card.Body>
 									<Form>
@@ -206,6 +206,7 @@ class Donate extends PureComponent{
 }
 
 export default withRouter(Donate)
+
 
 
 
