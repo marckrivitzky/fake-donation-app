@@ -64,7 +64,7 @@ class HomePageNew extends PureComponent{
 										<br/><br/>
 				 							<button className="btn btn-secondary" onClick={this.openModal}>Click here if you donated</button>
 				 							
-		 							    <Modal  style={{ position: 'relative', marginRight: 'auto', marginLeft: 'auto', bottom:'30%'}} show={this.state.modalOpen} onHide={this.closeModal}>
+		 							    <Modal  show={this.state.modalOpen} onHide={this.closeModal}>
 											<Card style={{width: '100%', position: 'relative', marginRight: 'auto', marginLeft: 'auto'}}>
 												<Card.Title style={{width: '100%', position: 'relative', marginRight: 'auto', marginLeft: 'auto'}}>Thank you {this.props.firstName} {this.props.lastName}</Card.Title>
 												<br/>
